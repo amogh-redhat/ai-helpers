@@ -225,6 +225,12 @@
       "source": "./plugins/console",
       "description": "OpenShift Console dynamic plugin development utilities",
       "version": "0.0.1"
+    },
+    {
+      "name": "cve-remediation",
+      "source": "./plugins/cve-remediation",
+      "description": "CVE vulnerability detection, Jira ticket creation, and automated fix PR generation for HyperShift",
+      "version": "0.2.0"
     }
   ]
 }
