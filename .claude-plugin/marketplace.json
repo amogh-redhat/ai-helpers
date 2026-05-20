@@ -229,8 +229,8 @@
     {
       "name": "cve-remediation",
       "source": "./plugins/cve-remediation",
-      "description": "CVE vulnerability detection, Jira ticket creation, and automated fix PR generation for HyperShift",
-      "version": "0.2.0"
+      "description": "CVE vulnerability assessment and automated fix PR generation for Go repositories",
+      "version": "0.3.0"
     }
   ]
 }

@@ -13,6 +13,7 @@ bin
 *~
 .vscode
 .envrc
+.env
 .DS_Store
 
 .kube
